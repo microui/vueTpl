@@ -21,6 +21,7 @@ export default {
       'id': 222
     }).then(res => {
       console.log(11111);
+      console.log('改');
     });
   }
 };
