@@ -20,8 +20,7 @@ export default {
     Ajax(`/tui/commission`, {
       'id': 222
     }).then(res => {
-      console.log(res);
-      console.log('1111111111');
+      console.log(11111);
     });
   }
 };
