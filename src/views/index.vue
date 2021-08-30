@@ -22,6 +22,7 @@ export default {
     }).then(res => {
       console.log(res);
       console.log('1111111111');
+      console.log('222222');
     });
   }
 };
