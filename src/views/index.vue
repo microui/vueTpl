@@ -21,6 +21,7 @@ export default {
       'id': 222
     }).then(res => {
       console.log(res);
+      console.log('1111111111');
     });
   }
 };
